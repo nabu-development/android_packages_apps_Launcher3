@@ -76,4 +76,7 @@
     <!-- Taskbar -->
     <string name="pref_allow_phone_taskbar">Use taskbar</string>
     <string name="pref_allow_phone_taskbar_desc">For opening and switching apps anywhere</string>
+
+    <!-- Top shadow -->
+    <string name="show_top_shadow">Top shadow</string>
 </resources>
